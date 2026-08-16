@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+vmdpy
+joblib
+tqdm
+pandas
+numpy
+matplotlib
+openpyxl
