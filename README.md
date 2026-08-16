@@ -6,6 +6,7 @@ Este repositório contém os códigos-fonte utilizados para a modelagem preditiv
 O estudo avalia o desempenho da previsão univariada da umidade relativa do ar utilizando um modelo Deep Learning BiLSTM tradicional em contraposição a um modelo híbrido Rolling VMD-BiLSTM. A metodologia destaca a aplicação da Decomposição em Modos Variacionais com janela deslizante (Rolling VMD) processando a série temporal de forma iterativa para mitigar o vazamento de dados (*data leakage*), garantindo um cenário preditivo realista.
 
 🔗 **Artigo Completo:** https://periodicorease.pro.br/rease/article/view/25722/16365
+
 🔗 **DOI:** https://doi.org/10.51891/rease.v12i4.25722
 
 ## 💻 Códigos e Notebooks
